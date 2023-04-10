@@ -11,4 +11,5 @@ Association Rule with Apriori Algortihm using SQL - Python and visualization wit
 
 ## Power BI Result
 
-![apriori_power_bi](https://user-images.githubusercontent.com/63555029/229741819-3e51d053-860c-4b81-85e9-d7049f43bf25.png)
+![power_bi](https://user-images.githubusercontent.com/63555029/230896257-2cdbe907-9b6f-4803-aa8a-13d7332d9f00.png)
+
