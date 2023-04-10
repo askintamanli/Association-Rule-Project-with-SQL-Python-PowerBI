@@ -1,5 +1,5 @@
 # Association Rule Project 
-Association Rule with Apriori Algortihm using SQL and Python and visualization with PowerBI
+Association Rule with Apriori Algortihm using SQL - Python and visualization with PowerBI
 
 ## SQL RESULTS
 
